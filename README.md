@@ -1,5 +1,4 @@
 ## 👋 hi
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=minokah&theme=buefy&show_icons=true">]()
 - 🌸 i'm brandon
 - 📚 second year computer science @ [western university](https://www.uwo.ca/)
 - 🥽 coding is pretty cool
