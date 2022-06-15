@@ -1,6 +1,6 @@
 ## 👋 hi
 - 🌸 i'm brandon
-- 📚 second year computer science @ [western university](https://www.uwo.ca/)
+- 📚 third year computer science @ [western university](https://www.uwo.ca/)
 - 🥽 coding is pretty cool
 ---
 [![website](https://img.shields.io/badge/-website-orange?style=flat-square&logo=GoogleChrome&logoColor=white)](https://minokah.github.io)
