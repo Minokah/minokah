@@ -1,7 +1,7 @@
-## 👋 hi
+## 👋 hello
 - 🌸 i'm brandon
 - 📚 third year computer science @ [western university](https://www.uwo.ca/)
-- 🥽 coding is pretty cool
+- 🥽 i like playing FFXIV and programming
 ---
 [![website](https://img.shields.io/badge/-website-orange?style=flat-square&logo=GoogleChrome&logoColor=white)](https://minokah.github.io)
 [![gmail](https://img.shields.io/badge/-email-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:luu.brandon@hotmail.com)
