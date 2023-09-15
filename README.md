@@ -1,7 +1,7 @@
 ## 👋 hello
 - 🌸 i'm brandon
 - 🚗 software development intern @ [j.d. power](https://canada.jdpower.com/)
-- 📚 third year computer science @ [western university](https://www.uwo.ca/)
+- 📚 fourth year computer science @ [western university](https://www.uwo.ca/)
 - 🥽 i like playing FFXIV and programming
 ---
 [![website](https://img.shields.io/badge/-website-orange?style=flat-square&logo=GoogleChrome&logoColor=white)](https://minokah.github.io)
