@@ -1,5 +1,5 @@
 ## 👋 hello
-- 🌸 i'm brandon
+- 🌸 i'm Minokah
 - 🚗 software development intern @ [j.d. power](https://canada.jdpower.com/)
 - 📚 fourth year computer science @ [western university](https://www.uwo.ca/)
 - 🥽 i like playing FFXIV and programming
