@@ -1,7 +1,8 @@
-# 👋 hello and welcome!
-- 🌸 i'm Brandon (aka Minokah)
-- 🚗 previous software development intern @ [j.d. power](https://canada.jdpower.com/)
-- 📚 fourth year major computer science, minor game development @ [western university](https://www.uwo.ca/)
+# 👋 Hello!
+- 🌸 I'm Brandon (aka Minokah)
+- 🐐 I am a goat, and you could say I am goated
+- 🚗 Previous software development intern @ [J.D. Power](https://canada.jdpower.com/)
+- 📚 Computer science graduate @ [Western University](https://www.uwo.ca/)
 ---
 [![Website](https://img.shields.io/badge/Website-006CFF?logo=safari&logoColor=fff)](http://minokah.github.io)
 [![Email](https://img.shields.io/badge/Email-FC6D26?logo=gmail&logoColor=fff)](mailto:luu.brandon@hotmail.com)
